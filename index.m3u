@@ -18,5 +18,5 @@ https://livehd.us.malimarcdn.com/hdliveedge00/hmhd.stream/playlist.m3u8?verify=1
 https://livehd.us.malimarcdn.com/hdliveedge00/rasmeyhd.stream/playlist.m3u8?verify=1649965689_6N36GcZJ0%2B85d%2BaJK9tR2%2FQ%2Fa9I6iDBhgH5o71eQVaA%3D
 #EXTINF:-1 tvg-id="CTV8.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/Ji0fjKO.png" group-title="Undefined",CTV8
 https://livesd.us.malimarcdn.com/khliveedge00/ctv8.stream/playlist.m3u8?verify=1649965676_kqyHL%2Be7f7mkDtWkUa%2BOqnA2uR1Y6dZ1US8tuZOOiAo%3D
-#EXTINF:-1 tvg-id="TownHDTV.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/KYkvojX.png" group-title="Undefined",Town HD TV
-http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&nns_output_type=json&nns_user_agent=nn_pad/ipad/1.0.0&nns_language=en_US&nns_tag=28&nns_user_id=IPADB123456789089756745634523456&nns_device_id=&nns_buss_id=2000002&nns_category_id=1000001&nns_func=apply_play_video&nns_mac_id=112233445566&nns_media_assets_id=pad_live_v1&nns_media_id=d33cb3c83e44fa0046127eda0424dfad&nns_video_id=bcac6d038bd68aff27e3b0b6302f229e&nns_video_index=0&nns_video_type=1
+#EXTINF:-1 tvg-id="ApsaraTV.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/c5alutu.png" group-title="Undefined",Apsara TV
+http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8
