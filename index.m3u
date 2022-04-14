@@ -8,5 +8,5 @@ https://livefta.malimarcdn.com/tvkedge/bayonhd.stream/chunklist.m3u8
 https://livefta.malimarcdn.com/tvkedge/tvk2.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="CNC.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/IH89nbY.png" group-title="News",CNC
 https://livesd.us.malimarcdn.com/khliveedge00/cnc.stream/playlist.m3u8?verify=1649965622_n8n%2B3JJHrA85yfLAgx1e8OtqA4%2F0Q7d7j3v%2Fo3zCjdQ%3D
-#EXTINF:-1 tvg-id="MyTV.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnc_kh.png" group-title="Undefined",MyTV
-
+#EXTINF:-1 tvg-id="MyTV.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/cbmUspV.png" group-title="Undefined",MyTV
+https://livesd.us.malimarcdn.com/khliveedge00/mytv.stream/playlist.m3u8?verify=1649965662_hinMr49i%2Bzbvodon1c1GGTlLYf8e4N5zpHHKv81m0IE%3D
