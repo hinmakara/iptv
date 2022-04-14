@@ -14,3 +14,5 @@ https://livesd.us.malimarcdn.com/khliveedge00/mytv.stream/playlist.m3u8?verify=1
 https://livesd.us.malimarcdn.com/khliveedge00/ctn.stream/playlist.m3u8?verify=1649965637_UQJUE3kEW0k1niQUsWzxu4ktztKOHGnU%2FPBJcVUdJss%3D
 #EXTINF:-1 tvg-id="HangMeasTV.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/7jpUfv0.png" group-title="Undefined",Hang Meas TV
 https://livehd.us.malimarcdn.com/hdliveedge00/hmhd.stream/playlist.m3u8?verify=1649965717_hZIsFDSvhOEKysP2yL6ZBsoSn2RumCCX92si06jGWk8%3D
+#EXTINF:-1 tvg-id="RaksmeyHangMeas.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/ajvJyet.png" group-title="Undefined",Raksmey Hang Meas
+https://livehd.us.malimarcdn.com/hdliveedge00/rasmeyhd.stream/playlist.m3u8?verify=1649965689_6N36GcZJ0%2B85d%2BaJK9tR2%2FQ%2Fa9I6iDBhgH5o71eQVaA%3D
