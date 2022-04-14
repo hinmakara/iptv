@@ -10,3 +10,7 @@ https://livefta.malimarcdn.com/tvkedge/tvk2.stream/chunklist.m3u8
 https://livesd.us.malimarcdn.com/khliveedge00/cnc.stream/playlist.m3u8?verify=1649965622_n8n%2B3JJHrA85yfLAgx1e8OtqA4%2F0Q7d7j3v%2Fo3zCjdQ%3D
 #EXTINF:-1 tvg-id="MyTV.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/cbmUspV.png" group-title="Undefined",MyTV
 https://livesd.us.malimarcdn.com/khliveedge00/mytv.stream/playlist.m3u8?verify=1649965662_hinMr49i%2Bzbvodon1c1GGTlLYf8e4N5zpHHKv81m0IE%3D
+#EXTINF:-1 tvg-id="CTN.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/68RrYlx.png" group-title="Undefined",CTN
+https://livesd.us.malimarcdn.com/khliveedge00/ctn.stream/playlist.m3u8?verify=1649965637_UQJUE3kEW0k1niQUsWzxu4ktztKOHGnU%2FPBJcVUdJss%3D
+#EXTINF:-1 tvg-id="HangMeasTV.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/7jpUfv0.png" group-title="Undefined",Hang Meas TV
+https://livehd.us.malimarcdn.com/hdliveedge00/hmhd.stream/playlist.m3u8?verify=1649965717_hZIsFDSvhOEKysP2yL6ZBsoSn2RumCCX92si06jGWk8%3D
