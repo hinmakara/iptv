@@ -1,8 +1,10 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-id="TVKHD.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk_kh.png" group-title="Undefined",TVK HD
+#EXTINF:-1 tvg-id="TVKHD.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk_kh.png" group-title="Undefined",TVK
 https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="BTVHD.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="Undefined",BTV HD
+#EXTINF:-1 tvg-id="BTVHD.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="Undefined",BTV
 https://livefta.malimarcdn.com/tvkedge/bayonhd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVK2.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk_kh.png" group-title="News",TVK2
 https://livefta.malimarcdn.com/tvkedge/tvk2.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="CNC.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnc_kh.png" group-title="News",CNC
+https://livesd.us.malimarcdn.com/khliveedge00/cnc.stream/playlist.m3u8?verify=1649965622_n8n%2B3JJHrA85yfLAgx1e8OtqA4%2F0Q7d7j3v%2Fo3zCjdQ%3D
