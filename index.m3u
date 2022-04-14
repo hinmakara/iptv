@@ -1,6 +1,47 @@
 
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="TVKHD.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk_kh.png" group-title="Undefined",TVK HD
 https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="BTVHD.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="Undefined",BTV HD
 https://livefta.malimarcdn.com/tvkedge/bayonhd.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="FreshNews.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fresh-news-kh.png" group-title="News",Fresh News (720p)
+http://167.99.65.12:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="ONE TV" tvg-name="ONE TV" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://play-lh.googleusercontent.com/Qb_c20QL3MqiNgVVVyQGSya3IixwfizN4PqjJoqMZJuTmgRVw0pJHcskjxSeW-CfLA" group-title="KH TV",ONE TV
+https://livehd.us.malimarcdn.com/hdliveedge00/gmmonehd.stream/playlist.m3u8?verify=1644379639_NdLS6ZV%2BuHpSYvYIm%2BnslzlRjNvl5a0FG1AIt%2FWYeVg%3D
+#EXTINF:-1 tvg-id="MSJ TV" tvg-name="MSJ TV" tvg-country="KH" tvg-language="Khmer" tvg-logo="http://cdn.worldlivetv.stream/logo/msj.png" group-title="KH TV",MSJ TV
+http://124.248.165.18:1935/live/myStream.smil/chunklist_w1419427211_b2260000_sleng.m3u8
+#EXTINF:-1 tvg-id="TVK 2" tvg-name="TVK 2" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://play-lh.googleusercontent.com/-5xj8O-wsyRds3oby3TSPAQym7aWWYqrEldjmEqzcJV9FcVDSkocBru9P_hIoFyRPg" group-title="KH TV",TVK 2
+https://livefta.malimarcdn.com/tvkedge/tvk2.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="CTN" tvg-name="CTN" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://clpdaupp.com/wp-content/uploads/2020/11/CTN-Khmer-TV-Online.jpg" group-title="KH TV",CTN
+https://5d68870966db6.streamlock.net/EzeAppCameras/CTNCamera.stream/chunklist_w90146074.m3u8
+#EXTINF:-1 tvg-id="Apsara TV" tvg-name="Apsara TV" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://1.bp.blogspot.com/-Y67HLYUc8tI/XllMvduYKHI/AAAAAAAAJ9s/-PkYiDQ_DPAkhSBrZCr6liCzuONjPCxlgCLcBGAsYHQ/s1600/apsara-tv.png" group-title="KH TV",Apsara TV
+http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CTV8" tvg-name="CTV8" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://yt3.ggpht.com/TsVPW-uHCynSmeh_W3297gsTR5AUj8OXbk4R-OmFAwD9Zv-ihB4GmxvQo8iSl-eeVPP40qF3=s900-c-k-c0x00ffffff-no-rj" group-title="KH TV",CTV8
+https://livesd.us.malimarcdn.com/khliveedge00/ctv8.stream/playlist.m3u8?verify=1644379263_AIC0ShvNu7L5Vpwbjw9p3iHvm7grHKQv6izwlmNdt04%3D
+#EXTINF:-1 tvg-id="CNC" tvg-name="CNC" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://lh3.googleusercontent.com/N_wlvl4jFX27OcZ9GxCW9oHyjFUpARg4SkrfHHHRAiJWOnyuuVsFCJfPFAJh6uxXv4HE" group-title="KH TV",CNC
+https://livesd.us.malimarcdn.com/khliveedge00/cnc.stream/playlist.m3u8?verify=1644379216_DCRoST2khqxNLpEY8WSGVKUWnNQGnbbI4%2FD%2FMYm2Aa4%3D
+#EXTINF:-1 tvg-id="Raksmey Hang Mease" tvg-name="Raksmey Hang Mease" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://1.bp.blogspot.com/-Vfh5qhNB-pk/XeFPvY3l4CI/AAAAAAAAAAw/mbhiC2IPMO4ANoHHz2lopY0BmXAY3U1lwCLcBGAsYHQ/s1600/rhm.jpg" group-title="KH TV",Raksmey Hang Mease
+https://livehd.us.malimarcdn.com/hdliveedge00/rasmeyhd.stream/playlist.m3u8?verify=1644379274_rqhOsTSjdETisfSrTpfD%2BlnpRC%2BmGJYBUhyYdSN9MT8%3D
+#EXTINF:-1 tvg-id="Hang Meas TV" tvg-name="Hang Meas TV" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://1.bp.blogspot.com/-Vfh5qhNB-pk/XeFPvY3l4CI/AAAAAAAAAAw/mbhiC2IPMO4ANoHHz2lopY0BmXAY3U1lwCLcBGAsYHQ/s1600/rhm.jpg" group-title="KH TV",Hang Meas TV
+https://livehd.us.malimarcdn.com/hdliveedge00/hmhd.stream/playlist.m3u8?verify=1644379297_ZX18Dhvwbj6OGSLy5%2BhO3qnDibt9A2VllRSQV5uYBP4%3D
+#EXTINF:-1 tvg-id="CTN" tvg-name="CTN" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://clpdaupp.com/wp-content/uploads/2020/11/CTN-Khmer-TV-Online.jpg" group-title="KH TV",CTN
+https://livesd.us.malimarcdn.com/khliveedge00/ctn.stream/playlist.m3u8?verify=1644379228_rbF3hSJ7vOohwPoiV4vzmbLawZ5AANasfNwSYpHwkmo%3D
+#EXTINF:-1 tvg-id="MY TV" tvg-name="MY TV" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://2.bp.blogspot.com/-0bhSTZbTpBE/WdpJ7aBTiZI/AAAAAAAAAMU/maSxwoirJ10knP3bM8LYRjZH5djxiEjUgCLcBGAs/s1600/mytv.jpg" group-title="KH TV",MY TV
+https://livesd.us.malimarcdn.com/khliveedge00/mytv.stream/playlist.m3u8?verify=1644379251_8ZELoThnOluYxKfelTACgap66INsy0BsduAVRJmlvSI%3D
+#EXTINF:-1 tvg-id="PNN TV" tvg-name="PNN TV" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://www.abu.org.my/wp-content/uploads/2019/04/pnn.png" group-title="KH TV",PNN TV
+http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Tv9cambodia.png/revision/latest?cb=20191208065632" group-title="KH TV",TV9
+https://livesd.us.malimarcdn.com/khliveedge00/tv9.stream/playlist.m3u8?verify=1644379240_M2zA4cbWD22NmWDNol7I7lSNs%2FqeRDRsr3x3rfgLBZA%3D
+#EXTINF:-1 tvg-id="SEA TV" tvg-name="SEA TV" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://www.kindpng.com/picc/m/77-775557_cambodia-flag-png-png-download-seatv-cambodia-transparent.png" group-title="KH TV",SEA TV
+http://203.176.130.123:8989/live/seatv_480k.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TV5" tvg-name="TV5" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://cdn.worldlivetv.stream/logo/tv5.jpg" group-title="KH TV",TV5
+http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Bayon TV" tvg-name="Bayon TV" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://photos.live-tv-channels.org/tv-logo/kh-bayon-tv-3633.jpg" group-title="KH TV",Bayon TV
+https://livefta.malimarcdn.com/tvkedge/bayonhd.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://3.bp.blogspot.com/-KGf_J9KiLxc/WdpKu8W2_zI/AAAAAAAAAMY/iA2zyoLL5dsc0p_RqGTYGZWjETPgW2EmwCLcBGAs/s1600/btv-news.jpg" group-title="KH TV",BTV
+https://livefta.malimarcdn.com/tvkedge/btv.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVK" tvg-name="TVK" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://play-lh.googleusercontent.com/-5xj8O-wsyRds3oby3TSPAQym7aWWYqrEldjmEqzcJV9FcVDSkocBru9P_hIoFyRPg" group-title="KH TV",TVK
+https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PPTV" tvg-name="PPTV" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://photos.live-tv-channels.org/tv-logo/th-pptv-hd-36-2547.jpg" group-title="KH TV",PPTV
+https://livehd.us.malimarcdn.com/hdliveedge00/pptvhd.stream/playlist.m3u8?verify=1644379661_DJfuswNiVtZgfq3MeWJ%2BoBA0l7%2FbdgP8D%2BTUnF0oC78%3D
+#EXTINF:-1 tvg-id="AMARIN TV" tvg-name="AMARIN TV" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://1.bp.blogspot.com/-JUoBJP2Kf3k/XmR8H47sE0I/AAAAAAAAJZI/79OOQGg9ILwz5GySOMQeuCmaFQXFwQo3QCLcBGAsYHQ/s1600/Amarin-tv.jpg" group-title="KH TV",AMARIN TV
