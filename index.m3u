@@ -4,5 +4,5 @@
 https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="BTVHD.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="Undefined",BTV HD
 https://livefta.malimarcdn.com/tvkedge/bayonhd.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVK2.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fresh-news-kh.png" group-title="News",TVK2
+#EXTINF:-1 tvg-id="TVK2.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk_kh.png" group-title="News",TVK2
 https://livefta.malimarcdn.com/tvkedge/tvk2.stream/chunklist.m3u8
