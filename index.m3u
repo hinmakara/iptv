@@ -1,3 +1,4 @@
 
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml"
 #EXTINF:-1 tvg-id="TVK.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk_kh.png" group-title="Undefined",TVK HD
 https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/chunklist.m3u8
